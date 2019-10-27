@@ -1,4 +1,4 @@
-import { Procedure, ProcedureFunctionParams } from '../../lib/procedure';
+import { Procedure, ProcedureFunctionParams } from '@yalp/core';
 import path from 'path';
 import { readFileSync, writeFileSync } from 'fs';
 
